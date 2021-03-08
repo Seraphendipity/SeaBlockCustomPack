@@ -35,7 +35,7 @@ end
 
 -- ITEM
 if data.raw.item["spacex-combinator"] then
-  data.raw.item["spacex-combinator"].icon = "__SeaBlockCustomPack__/graphics/spacex-combinator.png"
+  data.raw.item["spacex-combinator"].icon = "__SeaBlockCustomPack-Variant__/graphics/spacex-combinator.png"
   data.raw.item["spacex-combinator"].icon_size = 64
   data.raw.item["spacex-combinator"].icon_mipmaps = 4
 end
