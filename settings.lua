@@ -13,4 +13,11 @@ data:extend({
     type = "bool-setting",
   	default_value = true,
   },
+  {
+    setting_type = "startup",
+  	name = "ick-seablock-wires",
+  	order = "b[wires]",
+    type = "bool-setting",
+  	default_value = true,
+  },
 })

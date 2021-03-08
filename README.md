@@ -60,12 +60,13 @@ This mod is a custom version of the [Sea Block Pack](https://mods.factorio.com/m
 * Changed "Vehicle: Spidertron remote" from "Shortcuts for 1.1" default to "Enabled (hide remote from inventory)".
 * Added startup setting "Hide burner inserter", default true.
 * Added startup setting "Hide walls and gates", default true.
+* Added startup setting "Wires", default true. Enables the Green and Red Wire recipe additions.
 
 
 #### Recipes
 
 * Warehouses require silos.
-* Combinators require red and green wire.
+* Combinators require red and green wire. Configurable in Startup Settings.
 * Repair packs require their previous tier.
 * If burner inserters are enabled, they are an ingredient of the inserter.
 * Steel and electric furnaces require stone and steel furnaces.
